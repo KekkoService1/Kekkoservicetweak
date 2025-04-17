@@ -2,6 +2,4 @@
 
    EN= MAKE SURE YOU HAVE OPENED THE FILE AS AN ADMINISTRATOR
 
-2) Metti Il file nel desktop
-
-https://youtu.be/x-acajveOoo
+              https://youtu.be/x-acajveOoo
